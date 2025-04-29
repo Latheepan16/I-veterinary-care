@@ -19,7 +19,7 @@ function show(event){
      </center>
      `;
 
-     preview.style.background = `url('${img.src}')`
+    
      preview.style.backgroundSize = `cover`
      over.style.display = "block"
  }
